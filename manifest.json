@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "IP Info",
+  "version": "1.0",
+  "description": "Displays current IP information",
+  "permissions": [
+    "https://ipinfo.io/"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
+
